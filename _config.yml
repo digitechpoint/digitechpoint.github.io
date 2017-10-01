@@ -1,21 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: DigiTechPoint
+title: Github Page of DigiTechPoint
 email: sam@digitechpoint.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Github Page of DigiTechPoint
+baseurl: "" #the subpath of your site, e.g. /blog
 url: "https://digitechpoint.github.io" # the base hostname & protocol for your site
-twitter_username: digitechpoint
+
+# about 5 elements are recomended
 github_username:  digitechpoint
+facebook_username: digitechpoint
+google_plus_username: 107242752933041005904
+instagram_username:  digitechpoint
+
+avatar: yes
+avatar_img_path: "https://avatars2.githubusercontent.com/u/14108051"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+
+favicon_img: yes
+favicon_img_path: "https://avatars2.githubusercontent.com/u/14108051"
 
 # Build settings
 markdown: kramdown
