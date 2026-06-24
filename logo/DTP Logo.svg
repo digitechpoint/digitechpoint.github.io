@@ -1,0 +1,18 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo Frame" clip-path="url(#clip0_14_14)">
+<path id="Round A371FC" fill-rule="evenodd" clip-rule="evenodd" d="M-0.999983 538.878C-0.999983 240.712 240.667 -1 538.778 -1C681.936 -1 819.231 55.8798 920.459 157.127C1021.69 258.373 1078.56 395.693 1078.56 538.878C1078.56 837.044 836.889 1078.76 538.778 1078.76C240.667 1078.76 -0.999983 837.044 -0.999983 538.878Z" fill="#A371FC"/>
+<path id="TopLeft" fill-rule="evenodd" clip-rule="evenodd" d="M129.157 473.904L155.695 372.369L401.872 370.896L463.048 121.466L569.186 120.73L482.21 476.113L129.157 473.904Z" fill="black"/>
+<path id="BottomLeft" fill-rule="evenodd" clip-rule="evenodd" d="M-0.566406 979.724L356.17 979.358L443.88 623.975L86.7726 624.711L-0.566406 979.724Z" fill="black"/>
+<path id="BottomLeftA371FC" fill-rule="evenodd" clip-rule="evenodd" d="M165.954 728.162L313.957 731.074L278.128 879.725L128.561 876.808L165.954 728.162Z" fill="#A371FC"/>
+<path id="CentreBlack" fill-rule="evenodd" clip-rule="evenodd" d="M317.012 726.136C456.326 725.993 534.434 725.913 673.748 725.77L761.458 370.388L404.351 371.124L317.012 726.136Z" fill="black"/>
+<path id="CentreA371FC" fill-rule="evenodd" clip-rule="evenodd" d="M483.505 474.575L631.509 477.488L595.68 626.138L446.112 623.221L483.505 474.575Z" fill="#A371FC"/>
+<path id="TopRight" fill-rule="evenodd" clip-rule="evenodd" d="M634.555 472.55L991.291 472.184L1079 116.801L721.894 117.538L634.555 472.55Z" fill="black"/>
+<path id="TopRightA371FC" fill-rule="evenodd" clip-rule="evenodd" d="M801.056 220.988L949.06 223.901L913.23 372.551L763.663 369.634L801.056 220.988Z" fill="#A371FC"/>
+<path id="BottomRight" fill-rule="evenodd" clip-rule="evenodd" d="M960.026 623.257L933.219 725.737L684.549 727.223L622.753 978.972L515.54 979.715L603.397 621.028L960.026 623.257Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_14_14">
+<rect width="1080" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
